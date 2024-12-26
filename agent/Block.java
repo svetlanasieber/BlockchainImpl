@@ -22,7 +22,6 @@ public class Block implements Serializable {
 
     private ProofOfWork proofOfWork;
 
-    // for jackson
     public Block() {
     }
 
